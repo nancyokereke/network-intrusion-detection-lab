@@ -41,7 +41,7 @@ A hands-on penetration testing lab simulating a realistic network intrusion scen
 | Command & Control | T1095 |
 
 ## Deliverables
-- [Network Intrusion Detection Lab Report (PDF/DOCX)](./Network_Intrusion_Detection_Lab_Report.docx)
+- [Network Intrusion Detection Lab Report
 - Screenshots of all exploits and Wireshark captures
 
 ## Relevance to Fintech Security
